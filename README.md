@@ -5,7 +5,7 @@
 |--------------|------------------|----------------------|
 | 22120017    | Trương Tiến Anh         | 22120017@student.hcmus.edu.vn    | 
 | 22120023    | Lê Nguyễn Gia Bảo       | 22120023@student.hcmus.edu.vn  | 
-
+| 22120043    | Đoàn Minh Cường       | 22120043@student.hcmus.edu.vn  | 
 
 ## Description
 This project focusing on analyzing a global football dataset from Kaggle. The dataset contains over 47,000 international football results from 1872 to 2024, covering FIFA World Cup, friendly matches, and other tournaments. The goal is to clean, explore, and analyze the data to uncover insights about football trends, team performance, and individual players.
